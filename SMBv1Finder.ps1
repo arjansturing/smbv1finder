@@ -8,7 +8,7 @@
 #Always make sure that you have the permission of the server owner before executing the script!
 
 #Function for finding Servers in Active Directory with SMBv1 enabled and listing the shares of the regarding servers.
-function smbv1-ad{Get-Item WSMan:\localhost\Client\TrustedHosts
+function smbv1-ad{
 Write-Host "For scanning the servers in de AD you need to enable PS Remoting on the servers."
 Write-Host "In the readme file you will find a guide to enable PS Remoting by GPO"
 Write-Host ""-ForeGroundColor Green
