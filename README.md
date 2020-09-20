@@ -9,4 +9,4 @@ You can enable "PSRemoting" on a single server by executing the following PS com
 
 You can enable PSRemoting on mulitple servers within a AD environment by using GPO.
 
-A guide for enabling PSRemoting can be find here: https://www.techrepublic.com/article/how-to-enable-powershell-remoting-via-group-policy/
+A guide for enabling PSRemoting by using GPO can be find here: https://www.techrepublic.com/article/how-to-enable-powershell-remoting-via-group-policy/
