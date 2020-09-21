@@ -1,5 +1,5 @@
 # SMBv1 Finder
-This script returns the SMBv1 status and FileShare information of the servers within a AD environment.
+This script returns the SMBv1 status and FileShare information of servers within a AD environment.
 
 Make sure that you have the Active Directory module installed and run Powershell as "Administrator" when using the script.
 
